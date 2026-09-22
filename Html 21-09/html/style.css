@@ -1,0 +1,19 @@
+body{
+    background-color:lightblue;
+    font-size:medium;
+    margin:0cm;
+}
+
+header{
+    background-color: blue ;
+    color: white ;
+    padding: 70px;
+    text-align: center;
+}
+
+a{
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    padding:0cm;
+}
